@@ -51,3 +51,7 @@ buildNumber.properties
 # End of https://www.gitignore.io/api/java,maven,intellij
 
 build/
+
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
